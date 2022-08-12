@@ -1,2 +1,2 @@
 # 🔥Discord Group Spammer
-![image](https://user-images.githubusercontent.com/74207477/184341230-d3111547-f487-432a-b431-c154b2a4326c.png)
+![Image](https://user-images.githubusercontent.com/74207477/184341553-83ff8a7d-b786-4d73-985c-107a8253c3f2.png)
